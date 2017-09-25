@@ -1,5 +1,5 @@
 {
-  "name": "numberformat",
+  "name": "simple-number-format",
   "version": "1.0.0",
   "description": "A javascript library of formatting numbers",
   "main": "index.js",
